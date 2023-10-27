@@ -25,6 +25,7 @@
     "prettier": "^3.0.3"
   },
   "dependencies": {
+    "example-joker": "^0.0.4",
     "give-me-a-joke": "^0.4.0"
   }
 }
