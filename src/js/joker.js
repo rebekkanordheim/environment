@@ -9,3 +9,4 @@ export function dadJoke() {
         joker.getRandomDadJoke(resolve);
     })
 }
+
