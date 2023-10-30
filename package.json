@@ -15,7 +15,9 @@
     "type": "git",
     "url": "git+https://github.com/rebekkanordheim/joker.git"
   },
-  "keywords": ["workflow"],
+  "keywords": [
+    "workflow"
+  ],
   "author": "RebNor46673@stud.noroff.no",
   "license": "ISC",
   "bugs": {
@@ -33,6 +35,9 @@
     "give-me-a-joke": "^0.4.0"
   },
   "lint-staged": {
-    "*.js": ["eslint --cache --fix", "prettier --write"]
+    "*.js": [
+      "eslint --cache --fix",
+      "prettier --write"
+    ]
   }
 }
